@@ -59,3 +59,7 @@ More detailed posing is possible in Blender Pose Mode. You have to select the FL
 
 ### Prepare and export for 3D printing
 Select mesh and the click on the "Close mesh" button to close all holes in the mesh and make it watertight for proper slicing. Click on the "Export OBJ" button to export the model in [mm] scale for you slicing software.
+
+## Acknowledgement
+
+This FLAME Blender Add-on has been implemented by Joachim Tesch. We thank Joachim for implementing and distributing the Add-on.
