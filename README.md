@@ -1,6 +1,6 @@
 # FLAME Blender Add-on
 
-This add-on allows you to add gender specific [FLAME](https://flame.is.tue.mpg.de) skinned meshes to your current Blender scene. The imported FLAME meshes consist of shape keys (blend shapes) for shape, expression and pose correctives as well as joints for manipulation of neck, jaw and eyes.
+[FLAME](http://flame.is.tue.mpg.de/) is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. This add-on allows you to add gender specific FLAME skinned meshes to your current Blender scene. The imported FLAME meshes consist of shape keys (blend shapes) for shape, expression and pose correctives as well as joints for manipulation of neck, jaw and eyes.
 
 #### Add-on features:
 + Add gender specific FLAME mesh to current scene
