@@ -60,6 +60,25 @@ More detailed posing is possible in Blender Pose Mode. You have to select the FL
 ### Prepare and export for 3D printing
 Select mesh and the click on the "Close mesh" button to close all holes in the mesh and make it watertight for proper slicing. Click on the "Export OBJ" button to export the model in [mm] scale for you slicing software.
 
+## License
+
+FLAME is available under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). By using the model or the code code, you acknowledge that you have read the license terms (http://flame.is.tue.mpg.de/model_license), understand them, and agree to be bound by them. If you do not agree with these terms and conditions, you must not use the code.
+
+## Citing
+
+When using this code in a scientific publication, please cite 
+```
+@article{FLAME:SiggraphAsia2017,
+  title = {Learning a model of facial shape and expression from {4D} scans},
+  author = {Li, Tianye and Bolkart, Timo and Black, Michael. J. and Li, Hao and Romero, Javier},
+  journal = {ACM Transactions on Graphics, (Proc. SIGGRAPH Asia)},
+  volume = {36},
+  number = {6},
+  year = {2017},
+  url = {https://doi.org/10.1145/3130800.3130813}
+}
+```
+
 ## Acknowledgement
 
 This FLAME Blender Add-on has been implemented by Joachim Tesch. We thank Joachim for implementing and distributing the Add-on.
