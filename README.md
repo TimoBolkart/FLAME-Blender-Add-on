@@ -17,7 +17,7 @@ Additional Dependencies: None
 
 ## Data
 
-Download the FLAME Blender Add-on from [MPI-IS/FLAME](http://flame.is.tue.mpg.de/). You need to sign up and agree to the model license for access to the model.
+Download the FLAME Blender Add-on from [MPI-IS/FLAME](http://flame.is.tue.mpg.de/). You need to sign up and agree to the model license (CC BY 4.0) for access to the model.
 
 ## Installation
 1. Blender>Edit>Preferences>Add-ons>Install
