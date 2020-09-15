@@ -79,6 +79,7 @@ When using this code in a scientific publication, please cite
   volume = {36},
   number = {6},
   year = {2017},
+  pages = {194:1--194:17},
   url = {https://doi.org/10.1145/3130800.3130813}
 }
 ```
