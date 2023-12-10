@@ -22,19 +22,19 @@ Download the FLAME Blender Add-on from [MPI-IS/FLAME](http://flame.is.tue.mpg.de
 ## Installation
 1. Blender>Edit>Preferences>Add-ons>Install
 
-![](docs/flame_blender_install_1.png)
+![](flame_blender_install_1.png)
 
 2. Select flame_tool add-on ZIP file and install
 
 3. Enable FLAME add-on
 
-![](docs/flame_blender_install_2.png)
+![](flame_blender_install_2.png)
 
 4. Enable sidebar in 3D Viewport>View>Sidebar
 
 5. FLAME tool will show up in sidebar
 
-![](docs/flame_blender_install_3.png)
+![](flame_blender_install_3.png)
 
 ## Usage
 
@@ -42,7 +42,7 @@ Download the FLAME Blender Add-on from [MPI-IS/FLAME](http://flame.is.tue.mpg.de
 + Select gender and press "Add to scene" button to add model to origin
     + Note: If you cannot see the mesh then make sure that you have removed the default Blender cube at the origin since it will cover the FLAME model
 
-![](docs/flame_blender_addon.png)
+![](flame_blender_addon.png)
 
 
 ### Modify shape
