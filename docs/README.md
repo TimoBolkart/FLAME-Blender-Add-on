@@ -1,6 +1,6 @@
 ### Fork changelog:
 - This fork includes the add-on source-files for convenience, distribution being allowed by the CC4.0 and GPL license.
-- moved `doc` & `readme.md` to docs folder
+- moved `doc` & `readme.md` to `docs` folder
 
 ---
 
