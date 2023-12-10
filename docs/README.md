@@ -1,6 +1,6 @@
 # Flame Face Model - Blender addon
 
-An addon to 1-click generate & control a head with skinning & shapekeys, based on the FLAME 2017 SIGGRAPH Asia Paper.  
+An addon to 1-click generate & control a head with skinning & shapekeys, trained on a dataset of 33k+ scanned heads, and based on the FLAME 2017 SIGGRAPH Asia Paper.  
 ![](flame_blender_addon.png)
 
 ### Fork changelog:
