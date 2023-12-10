@@ -1,3 +1,5 @@
+This fork includes the add-on source-files for convenience, distribution being allowed by the CC4.0 and GPL license.
+
 # FLAME Blender Add-on
 
 [FLAME](http://flame.is.tue.mpg.de/) is a lightweight and expressive generic head model learned from over 33,000 of accurately aligned 3D scans. This add-on allows you to add gender specific FLAME skinned meshes to your current Blender scene. The imported FLAME meshes consist of shape keys (blend shapes) for shape, expression and pose correctives as well as joints for manipulation of neck, jaw and eyes.
