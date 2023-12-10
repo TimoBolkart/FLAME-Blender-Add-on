@@ -5,6 +5,9 @@
 - moved `doc` & `readme.md` to `docs` folder
 - added clarification that a `GPL` license was hidden in the script file
 
+Can now be installed in 1-click with the [Plugget Blender addon](https://github.com/plugget/plugget-blender-addon), search & install `flame-face-model`
+- manifest: https://github.com/plugget/plugget-pkgs/tree/main/blender/flame-face-model
+
 ---
 Original Readme:
 
