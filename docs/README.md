@@ -1,9 +1,12 @@
+# Flame Face Model - Blender addon
+
 ### Fork changelog:
 - This fork includes the add-on source-files for convenience, distribution being allowed by the `CC4.0` and `GPL` license.
 - moved `doc` & `readme.md` to `docs` folder
 - added clarification that a `GPL` license was hidden in the script file
 
 ---
+Original Readme:
 
 # FLAME Blender Add-on
 
