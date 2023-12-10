@@ -88,6 +88,7 @@ Select mesh and the click on the "Close mesh" button to close all holes in the m
 
 - FLAME is available under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). By using the model or the code code, you acknowledge that you have read the license terms (http://flame.is.tue.mpg.de/model_license), understand them, and agree to be bound by them. If you do not agree with these terms and conditions, you must not use the code.
 - ⚠️ The addon code is distributed under GPL license. See text at the start of the `__init__.py` script file
+- GPL license takes priority, see https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/
 
 ## Citing
 
