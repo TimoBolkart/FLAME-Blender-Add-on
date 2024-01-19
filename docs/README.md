@@ -93,6 +93,8 @@ Select mesh and the click on the "Close mesh" button to close all holes in the m
 - GPL license takes priority, see https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/
 - Note that it's unclear if GPL affects the included Blend scenes. Since the scenes are part of the addon distributed under CC4.0, it's fair to assume CC4.0 applies on the scenes.
 
+The originial blender addon was created by [Joachim Tesch](https://ps.is.mpg.de/person/jtesch) email: joachim.tesch@tuebingen.mpg.de
+
 ## Citing
 
 When using this code in a scientific publication, please cite 
